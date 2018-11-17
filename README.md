@@ -49,8 +49,8 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC33228/
 
 -   What new technical skills will need to learn in order to complete your project?
 > Our goal is to predict bleaching events using an algorithm that determines risk for bleaching based on light and heat stress to the coral. The technical skills we will need to learn for this project revolve around learning how to implement the algorithm and use it as a basis for modeling.
-<br/>
-https://www.mdpi.com/2072-4292/10/1/18
+
+> https://www.mdpi.com/2072-4292/10/1/18
 
 -   How will you conduct you analysis? Please include a  **detailed description**  of your intended modeling approach.
 > When we say we want to predict bleaching events, we mean that we want to predict whether bleaching will occur or not. This is a classification problem. As such, we will most likely use a two class decision forest (however, we will test a few different models). A decision forest is very similar to a decision tree, but it constructs multiple decision trees at a time and returns the mode or mean prediction of the trees. A decision tree classifies observations based on rules about the values of the variables within the observation learned in testing data. This will work well since we need accuracy and fast model training times so that we can test multiple models and tune hyperparameters.
