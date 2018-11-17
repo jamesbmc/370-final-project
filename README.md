@@ -4,18 +4,15 @@ By James McCutcheon, Emily Tao, Sean Campbell, and Akhila Bhamidipati
 ## Project Description
 -   What is the overarching purpose of your research project, and why is it an important undertaking?
 > The overarching purpose for this project is to use sea surface temperature, fishing data, and tourism data to accurately predict when coral reefs in Hawaii might be at risk for bleaching. This will allow Hawaii and its citizens to be better informed and become activists with respect to the health of the ocean ecosystem.
-<br/>
-<br/>
-Coral reefs are underwater structures which are composed of the skeletal remains of corals. They are important in Hawaii because coral reefs protect coastlines from waves and storms. They are a habitat, shelter, and food for many marine organisms. Coral reefs help with carbon and nitrogen fixing, which helps algae survive. They are also very important for living organisms on earth because many land animals feed on marine animals, which means that a healthy marine ecosystem is necessary for survival. When coral reefs start to bleach, they become uninhabitable for various creatures and do not provide benefits to the surrounding ecosystem. It is increasingly important to people to know about the benefits of coral reefs, as the rise of global warming and tourism makes them more vulnerable to bleaching.
+
+> Coral reefs are underwater structures which are composed of the skeletal remains of corals. They are important in Hawaii because coral reefs protect coastlines from waves and storms. They are a habitat, shelter, and food for many marine organisms. Coral reefs help with carbon and nitrogen fixing, which helps algae survive. They are also very important for living organisms on earth because many land animals feed on marine animals, which means that a healthy marine ecosystem is necessary for survival. When coral reefs start to bleach, they become uninhabitable for various creatures and do not provide benefits to the surrounding ecosystem. It is increasingly important to people to know about the benefits of coral reefs, as the rise of global warming and tourism makes them more vulnerable to bleaching.
 
 -   How does your research fit into the broader problem domain? You should cite  **at least 3 papers**  that help contextualize your research.
 > From the UW Library database we found a peer reviewed paper with the title “Global warming, regional trends and inshore environmental conditions influence coral bleaching in Hawaii.” Information in this paper will help us fine tune our features to make our model more predictive. https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2486.2004.00836.x
-<br/>
-<br/>
-Another peer reviewed article from the UW library database provides insight into the current measurements taken by NOAA. This research will be invaluable in helping us further understand coral bleaching. https://www-frontiersin-org.offcampus.lib.washington.edu/articles/10.3389/fmars.2018.00057/full
-<br/>
-<br/>
-A research paper written by researchers at the PNAS states that “... most activities of people (e.g., fishing, deforestation, nutrient enrichment, burning of fossil fuels, and use of toxic chemicals) either damage corals directly or damage them indirectly by adversely modifying interactions with their competitors, predators, pathogens, and mutualists.” This shows how our research will be helpful because it shows that even though there has been initial research done on the effects of coral reefs, people do not know the results and cannot act accordingly.
+
+> Another peer reviewed article from the UW library database provides insight into the current measurements taken by NOAA. This research will be invaluable in helping us further understand coral bleaching. https://www-frontiersin-org.offcampus.lib.washington.edu/articles/10.3389/fmars.2018.00057/full
+
+> A research paper written by researchers at the PNAS states that “... most activities of people (e.g., fishing, deforestation, nutrient enrichment, burning of fossil fuels, and use of toxic chemicals) either damage corals directly or damage them indirectly by adversely modifying interactions with their competitors, predators, pathogens, and mutualists.” This shows how our research will be helpful because it shows that even though there has been initial research done on the effects of coral reefs, people do not know the results and cannot act accordingly.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC33228/
 
 -   What  **specific hypothesis** (hypotheses) are you going to test?
