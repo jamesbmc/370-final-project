@@ -13,3 +13,5 @@ By James McCutcheon, Emily Tao, Sean Campbell, and Akhila Bhamidipati
 
 ### Our Team
 >Our group is composed of four aspiring software engineers with a passion for learning and data science. We are all very interested in helping the community by exploring relevant datasets, and hope that our findings in this report will be able to help detect when students are at risk for unhealthy drinking habits and will lead to schools and the community being able to assist such students if needed. 
+
+https://jamesbmc.github.io/370-final-project/
